@@ -1,0 +1,11 @@
+1. go to dir:
+	cd Desktop/python_SerialCom
+
+2. activate the virtual env to get pip working
+	source virtual_env/bin/activate
+
+3. install using pip
+	pip3 install <package>
+
+4. deactivate virtual env
+	deactivate
